@@ -43,7 +43,6 @@ prompts4code is a developer-oriented intelligent prompt knowledge base dedicated
 **Vision:**  
 Establish a "Prompt as Code" paradigm in programming through an open, community-driven prompt knowledge network, lowering the barrier to AI programming tools and accelerating collective intelligence evolution in developer communities.  
 
-以下是一个针对"编程专用提示词仓库"项目的结构化描述方案，可根据实际需求调整内容细节：
 
 ---
 
